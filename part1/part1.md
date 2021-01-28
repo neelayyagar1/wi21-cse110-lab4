@@ -52,7 +52,11 @@
 
 18. In JS file 'part1-question18.js'
 
-19. 
+19. The array is first passed into modifyArray, then the array elements (one by one) are sent to the doSomething function, two is added to the num, then the new num is multiplied by 2, then added to the new array. 
+
+**20. In JS file 'part1-question20.js'**
+
+21. 1, 4, 3, 2
 
 
     
