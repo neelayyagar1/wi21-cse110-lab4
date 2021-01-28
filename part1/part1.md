@@ -24,5 +24,35 @@
 
 12. Nothing, there will be a bunch of errors since there are a bunch of constants that are trying to be changed
 
-13. A. student.name() 
+13. A. student.name
     B. student['Grad Year']
+    C. student.greeting
+    D. student['Favorite Teacher'].name
+    E. student.courseload[0]
+    
+14. A. '32'
+    B. 1
+    c. 3
+    D. '3null'
+    E. 4
+    F. 0
+    G. '3undefined'
+    H. NaN
+
+15. A. true
+    B. false
+    c. true
+    D. false
+    E. false
+    F. true
+    
+16. == does a conversion of both sides to the same type then compares while === doesnt do the conversion before the comparison.
+
+17. Only "How are you?" will be printed since 2 == true will evaluate to false and these are else ifs so once one is executed thats the end.
+
+18. In JS file 'part1-question18.js'
+
+19. 
+
+
+    
