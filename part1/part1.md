@@ -22,7 +22,7 @@
 
 11. Uncaught TypeError, we are trying to change the value of a constant, will print something to log if fixed since it is in same block
 
-12. Nothing, there will be a bunch of errors since there are a bunch of constants that are trying to be changed
+12. Nothing, there will be a bunch of errors since there are a bunch of constants that are trying to be changed.But if we change/correct the code by deleting the console statements, then it would return [50, 100, 150]
 
 13. A. student.name
     B. student['Grad Year']
